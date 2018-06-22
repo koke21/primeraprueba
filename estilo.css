@@ -16,8 +16,33 @@
 
 	border-radius: 4px;
 	color: white;
-	text-align: center;
 	background-color: #158F07;
 
 }
 
+.footer {
+	color: white;
+	background-color: black;
+	text-align: center;
+}
+
+.personas {
+	text-align: center;
+
+
+
+}
+.container img {
+
+	width: 40%;
+}
+
+.latino {
+
+	text-align: center;
+}
+
+.fondo {
+
+	background-color: #F1F4F0;
+}
